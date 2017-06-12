@@ -8,7 +8,7 @@
 </head>
 <body>
 	<center>
-		<img src="image/1.jpg" height="180" weight="1000">
+		<img src="image/1.jpg" height="180" width="400">
 		<form action="Login" method="post">
 			<div style="margin-top: 30px;">
 				<label>用户名称：</label> <input type="text" id="name" name="name" />

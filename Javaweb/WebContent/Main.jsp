@@ -24,6 +24,8 @@ a:hover{color:#F00;text-decoration:underline;font-size:25px }
 			%> <a href="InputNumber.jsp">猜数字</a>
 		</li>
 		<p>
+		<li><a href="2048.jsp">2048小游戏</a></li>
+		<p>
 		<li><a href="Calculator.jsp">简易计算器</a></li>
 		<p>
 		<li><a href="showEnglishAlphabet">英文字母表</a></li>
