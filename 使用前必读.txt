@@ -1,4 +1,5 @@
 下载JSP-FinalExamination仓库zip格式然后进行解压，
 将解压后的Javaweb文件导入eclipse即可使用！
 
-账号密码均为admin.
+用户名称：wds
+用户密码：123
