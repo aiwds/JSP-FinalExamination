@@ -19,7 +19,7 @@ public class Hello extends HttpServlet {
 			throws ServletException, IOException {
 		String name = req.getParameter("name");
 		String password = req.getParameter("password");
-		if ("admin".equals(name) && "admin".equals(password)) {
+		if ("wds".equals(name) && "123".equals(password)) {
 			req.setAttribute("names", name);
 			req.getRequestDispatcher("Main.jsp").forward(req, resp);
 			return;
